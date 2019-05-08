@@ -1,0 +1,48 @@
+.list-group{
+
+    font-size: 3.6vw;
+    list-style-type: none;
+   border: 0;
+}
+.list-group-item {
+    font-size: 2.5vw;
+    text-align: center;
+    color: #ffcb08;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+    .sushi-b{
+
+       width: 8%;
+    }
+}
+font-face{
+    font-family:"bg";
+    src: url(Bangers-Regular.ttf);
+
+}
+
+body{
+    font-family: bg;
+    color: #ffcb08;
+
+}
+.list-group-item {
+
+
+
+    background-color: #4e555b;
+}
+
+.list-group{
+
+    color: #ffcb08;
+    background-color: #4e555b;
+}
+
+

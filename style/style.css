@@ -1,0 +1,95 @@
+/*
+CSS Selectors:
+(.) signifies class
+(#) signifies id
+(none) signifies element
+(.class-name) (element-name) signifies specific elements of a class
+*/
+.header{
+	background-color: #747474;		/* doesn't actually change background color */
+	background: #747474;			/* background color */
+	color: white;					/* text color */
+	padding: 10px 20px;				/* text padding */
+	height: 250px;					/* header height */
+	text-align: center;				/* text alignment to center */
+}
+
+.header a{
+	color: #ff9019;
+	font-size: 18px;
+	border-radius: 4px;
+	line-height: 25px;
+	padding: 12px;
+}
+
+.header a:hover{
+	color: #ff9019;
+	background-color: #424242;
+}
+
+.content{
+	background: white;
+	color: black;
+	padding: 20px 20px;
+	padding-bottom: 15%; /* old: 300px */
+	text-align: center;
+}
+
+.footer{
+	background: #747474;
+	color: black;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+.columnContainer{
+	overflow: hidden;
+	width: 100%;
+}
+
+.leftColumn{
+	float: left;
+	width: 25%;
+}
+
+.rightColumn{
+	float: left;
+	width: 75%;
+}
+
+.input-group input {
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #FF4F1A;
+	border: none;
+	border-radius: 5px;
+}
+
+a{
+	color: #FF4F1A
+}
+
+select, input{
+	font-size: 16px;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: #747474;
+	margin: 0px;
+}
+
+#map {
+	height: 500px;  /* The height is 400 pixels */
+	width: auto;  /* The width is the width of the web page */
+}

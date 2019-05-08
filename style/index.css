@@ -1,0 +1,45 @@
+body{
+     background: gray;
+ }
+
+#cont2{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 46px;
+    border-top-width: 2px;
+    border-top-style: dashed;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+}
+
+#map{
+    width: auto;
+    height: 800px;
+}
+
+#info-window{
+    font-family: default;
+    color: black;
+}
+
+#btn1 {
+    border-color: black;
+    text-align: center;
+    background: #ffcb08;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    color: black;
+}
+
+#cont3{
+    margin: auto;
+    width: 86px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: black;
+
+}

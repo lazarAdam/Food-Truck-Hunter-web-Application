@@ -1,0 +1,31 @@
+h4{
+
+    text-align: center;
+
+}
+
+#btn1 {
+    border-color: black;
+    text-align: center;
+    background: #ffcb08;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    color: black;
+
+}
+
+#cont3{
+    margin: auto;
+    width: 86px;
+
+}
+
+#footer-text{
+
+    background: #2B2B2B;
+
+}
+
+#footer-text{
+    margin-top: 110px;
+}
