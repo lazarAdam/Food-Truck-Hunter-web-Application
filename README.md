@@ -7,9 +7,9 @@ hungry wanderers can quickly find and be routed to food trucks in the Twin Citie
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="images/index-screenshot.png>
 </p>
-<p align="center"> <img src="images/index-screenshot.png?raw=true "Logo""></p>
+
 
 
 ### How To ###
