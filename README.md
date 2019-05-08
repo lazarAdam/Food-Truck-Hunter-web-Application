@@ -4,9 +4,9 @@ With the use of a web based application using crowd-sourced user feedback and ra
 hungry wanderers can quickly find and be routed to food trucks in the Twin Cities area utilizing Google Maps.
 
 ### Screenshots ###
-![Alt text](images/logo.png?raw=true "Logo")
+<p align="center"> <img src="images/index-screenshot.png?raw=true "Logo""></p>
 
-![Alt text](images/index-screenshot.png?raw=true "Logo")
+
 ### How To ###
 Prerequisites 
 1. You must have an internet connection.
