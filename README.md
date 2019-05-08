@@ -7,7 +7,7 @@ hungry wanderers can quickly find and be routed to food trucks in the Twin Citie
 
 
 <p align="center">
-  <img width="460" height="300" src="images/index-screenshot.png>
+  <img src="images/index-screenshot.png">
 </p>
 
 ### How To ###
