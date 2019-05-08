@@ -1,0 +1,22 @@
+{
+  "name": "food-truck-hunter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup_food_trucks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyleKenson/Food-Truck-Hunter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyleKenson/Food-Truck-Hunter/issues"
+  },
+  "homepage": "https://github.com/HyleKenson/Food-Truck-Hunter#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}

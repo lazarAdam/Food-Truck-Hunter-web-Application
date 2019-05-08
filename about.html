@@ -1,0 +1,44 @@
+<?php
+session_start();
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel = "stylesheet" href ="style/Main.css" type="text/css" media= "all" />
+    <link rel = "stylesheet" href ="style/Nav.css" type="text/css" media= "all" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <title>Food truck Hunter</title>
+</head>
+<body>
+<div class="header">
+    <div id="navigation-text"></div>
+    <script>$("#navigation-text").load("navigation.php");</script>
+</div>
+<h1> FIND YOUR NEXT FAVORITE FOOD TRUCK  </h1>
+<h2 >WITH FOOD TRUCK HUNTERS!</h2>
+<img class="mx-auto d-block img-fluid" src="images/map_proto.png">
+<div class="row" >
+    <div class="col" id="row2">
+        <ul class="list-group ">
+            food truck hunters service offers:
+            <li class="list-group-item "> <img class="sushi-b" src="images/sushi-b.png">
+                service for all users in saint paul/minneapolis area</li>
+            <li class="list-group-item">  <img class="sushi-b" src="images/sushi-b.png">
+                realtime location for available food trucks nearby</li>
+            <li class="list-group-item"> <img class="sushi-b" src="images/sushi-b.png">
+                detailed food menus offered by our food truck vendors</li>
+            <li class="list-group-item"> <img class="sushi-b" src="images/sushi-b.png">
+                customizable accounts for normal user and, food truck vendors</li>
+        </ul>
+    </div>
+</div>
+<div class="container-fluid" id="footer"></div>
+</body>
+</html>
