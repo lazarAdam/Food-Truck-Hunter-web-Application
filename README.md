@@ -1,14 +1,18 @@
 # Food Truck Hunter
+<p align="center">
+  <img src="images/logo.png">
+</p>
+
 Find food trucks in your surrounding area. 
 With the use of a web based application using crowd-sourced user feedback and ratings, 
 hungry wanderers can quickly find and be routed to food trucks in the Twin Cities area utilizing Google Maps.
 
 ### Screenshots ###
 
-
 <p align="center">
-  <img src="images/logo.png">
+  <img src="images/gif/MainPage.gif">
 </p>
+
 
 ### How To ###
 Prerequisites 
