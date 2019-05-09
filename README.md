@@ -13,6 +13,26 @@ hungry wanderers can quickly find and be routed to food trucks in the Twin Citie
   <img src="images/gif/MainPage.gif">
 </p>
 
+<p align="center">
+  <img src="images/gif/MainPage2.gif">
+</p>
+
+<p align="center">
+  <img src="images/gif/GUI4.gif">
+</p>
+
+
+<p align="center">
+  <img src="images/gif/GUI3.gif">
+</p>
+
+<p align="center">
+  <img src="images/gif/GUI2.gif">
+</p>
+
+<p align="center">
+  <img src="images/gif/GUI1.gif">
+</p>
 
 ### How To ###
 Prerequisites 
