@@ -1,4 +1,4 @@
-# Food Truck Hunter
+# Food Truck Hunter Web Application
 <p align="center">
   <img src="images/logo.png">
 </p>
